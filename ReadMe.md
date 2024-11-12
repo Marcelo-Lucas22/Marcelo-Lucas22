@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho graduação em Geofísica para Universidade Federal do Pará (UFPA), onde pesquisei <br>sobre modelagem geofísica de eletrorresistividade com elementos finitos. Atualmente faço mestrado<br>na mesma instituição com ênfase em modelagem e inversão de dados eletromagnéticos.<br>Gosto desenvolver apostilas didáticas de diferentes assuntos da modelagem matemática e computacional usando a <br>linguagem de programação Python, Latex e Julia.
+Tenho graduação em Geofísica para Universidade Federal do Pará (UFPA), onde pesquisei <br>sobre modelagem geofísica de eletrorresistividade com elementos finitos. Atualmente faço mestrado<br>na mesma instituição com ênfase em modelagem e inversão de dados eletromagnéticos.<br>Gosto desenvolver apostilas didáticas de diferentes assuntos da modelagem matemática e computacional usando as <br>linguagens de programação Python, Latex e Julia.
 
 
 ## 🌐 Socials:
